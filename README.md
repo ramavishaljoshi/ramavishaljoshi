@@ -1,4 +1,4 @@
-👋 Hi there, I’m Ram Avishal Joshi
+👋 Hi there, I’m Rama vishal Joshi
 I'm a seasoned AWS Media Converter, Live Streaming App Developer, DevOps Engineer, and Web & Mobile App Developer with over 10 years of experience. My journey in tech has been all about turning complex ideas into user-friendly solutions. From crafting stunning user interfaces (UI) to ensuring seamless user experiences (UX), I’ve developed a knack for solving real-world problems through technology. To date, I’ve successfully delivered more than 10 mobile applications, consistently achieving 100% client satisfaction.
 
 ✅ What I Bring to the Table:
